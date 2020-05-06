@@ -1,2 +1,2 @@
 # stepik---auto-tests-course
-My home work
+My firts home work about Git
