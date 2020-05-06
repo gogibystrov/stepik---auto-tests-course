@@ -19,3 +19,6 @@ x = int(browser.find_element_by_id("input_value").text)
 answer = browser.find_element_by_id("answer").send_keys(calc(x))
 
 button2 = browser.find_element_by_id("solve").click()
+
+print("Ho-ho, try to catch this, GIT!")
+
